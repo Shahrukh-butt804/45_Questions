@@ -1,1 +1,1 @@
-# 45-excersize-with-typescript-and-node-js
+# 45-Exercises-with-typescript-and-node-js
